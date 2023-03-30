@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&display=swap");
+.module {
+  background: white;
+  border: 1px solid #fafafa;
+}
+.module > h2 {
+  padding: 1rem;
+  margin: 0 0 0.5rem 0;
+}
+.module > p {
+  padding: 0 1rem;
+}
+
+.stripe-2 {
+  color: rgb(38, 38, 38);
+  background: repeating-linear-gradient(25deg, transparent, transparent 1px, #ebe9e9 10px, #ccc 15px), linear-gradient(to bottom, #eee, #ccc9c9);
+}
+
+h1 h2 p {
+  font-family: "Poppins", sans-serif;
+}/*# sourceMappingURL=styles.css.map */
